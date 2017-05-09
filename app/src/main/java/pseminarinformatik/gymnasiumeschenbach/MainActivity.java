@@ -9,7 +9,6 @@ public class MainActivity extends AppCompatActivity
 {
     private PDFView pdfView;
     private PDFDownloader pdfDownloader;
-    private PDFDownloaderTest pdfTest;
 
     protected void onCreate(Bundle savedInstanceState)
     {
